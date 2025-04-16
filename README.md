@@ -44,29 +44,22 @@
 
 ---
 
-### 🧠 GitHub & Coding Activity
+### 🧠 My Coding Journey So Far
 
 <p align="center">
-  <!-- GitHub Stats in a Row -->
+  <!-- GitHub Streak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=IamAyrush&theme=tokyonight&hide_border=true" height="200"/>
+  
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=IamAyrush&show_icons=true&theme=tokyonight&hide_border=true" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamAyrush&layout=compact&theme=tokyonight&hide_border=true" height="200"/>
+
+  <!-- LeetCode Stats -->
+  <img src="https://leetcard.jacoblin.cool/Ayrush?ext=contest&theme=tokyonight" height="200"/>
 </p>
 
 <!-- Profile Views Badge -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=IamAyrush&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
-
----
-
-### 🧩 LeetCode Grind (Let’s Go!)
-
-<!-- LeetCode Badges - Replace your username -->
-<p align="center">
-  <a href="https://leetcode.com/yourLeetCodeUsername" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/iamayrush?theme=dark&font=baloo&ext=contest" alt="LeetCode Stats" />
-  </a>
 </p>
 
 
