@@ -2,7 +2,7 @@
 <h3 align="center">aka Ayrush | 3rd Year Techie @ ITE | Full Stack Dev | Building Dreams with Code ☁️</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7768E&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Dev+🚀;Code.+Design.+Deploy.+Repeat.;Always+Learning+🧠" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=5CE1E6&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Dev+🚀;Code.+Design.+Deploy.+Repeat.;Always+Learning+🧠" />
 </p>
 
 ---
@@ -45,8 +45,6 @@
 ---
 
 ### 📊 GitHub Stats
- ### 📈 GitHub Contribution Graph
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IamAyrush&bg_color=1f1f1f&color=00ffe4&line=00ffe4&point=ffffff&area=true&hide_border=true" alt="Ayrush's GitHub Activity Graph" />
 </p>
