@@ -56,8 +56,7 @@
 
 <!-- LeetCode Achievements (Streak Badges) -->
 <p align="center">
-  <img src="https://leetcode.com/static/images/achievement/50_days.png" alt="50 Days Streak" width="100"/>
-  <img src="https://leetcode.com/static/images/achievement/100_days.png" alt="100 Days Streak" width="100"/>
+  <img src="https://leetcard.jacoblin.cool/iamayrush?theme=dark&font=baloo&ext=contest" height="300"/>
 </p>
 
 <!-- Profile Views Badge -->
