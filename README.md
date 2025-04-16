@@ -44,20 +44,31 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🧠 GitHub & Coding Activity
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IamAyrush&bg_color=1f1f1f&color=00ffe4&line=00ffe4&point=ffffff&area=true&hide_border=true" alt="Ayrush's GitHub Activity Graph" />
-</p>
-<!-- 🔥 Streak - Full Width -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IamAyrush&theme=tokyonight&hide_border=true" width="100%" />
+  <!-- GitHub Stats in a Row -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IamAyrush&theme=tokyonight&hide_border=true" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=IamAyrush&show_icons=true&theme=tokyonight&hide_border=true" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamAyrush&layout=compact&theme=tokyonight&hide_border=true" height="200"/>
 </p>
 
-<!-- 📊 Stats & 🧠 Top Languages - Side by Side -->
+<!-- Profile Views Badge -->
 <p align="center">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=IamAyrush&show_icons=true&theme=tokyonight" width="49%"/>
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamAyrush&layout=compact&theme=tokyonight" width="49%"/>
+  <img src="https://komarev.com/ghpvc/?username=IamAyrush&color=blueviolet&style=flat-square" alt="Profile Views" />
 </p>
+
+---
+
+### 🧩 LeetCode Grind (Let’s Go!)
+
+<!-- LeetCode Badges - Replace your username -->
+<p align="center">
+  <a href="https://leetcode.com/yourLeetCodeUsername" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/iamayrush?theme=dark&font=baloo&ext=contest" alt="LeetCode Stats" />
+  </a>
+</p>
+
 
 ---
 
