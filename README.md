@@ -67,6 +67,14 @@
 
 ---
 
+### 📅 My GitHub Activity
+
+<p align="center">
+  <img src="https://github-contribution-graph.ez4o.com/?username=IamAyrush&theme=tokyonight" alt="GitHub Activity Graph" />
+</p>
+
+---
+
 ### 📫 Let's Connect
 
 <p align="center">
