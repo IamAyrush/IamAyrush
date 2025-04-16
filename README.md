@@ -51,7 +51,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IamAyrush&show_icons=true&theme=tokyonight" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IamAyrush&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IamAyrush&theme=tokyonight&hide_border=true" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamAyrush&layout=compact&theme=tokyonight" />
 </p>
