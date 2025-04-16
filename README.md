@@ -45,7 +45,9 @@
 ---
 
 ### 📊 GitHub Stats
-
+ <p align="center">
+  <img src="https://github-contribution-graph.ez4o.com/?username=IamAyrush&theme=tokyonight" alt="GitHub Activity Graph" />
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IamAyrush&show_icons=true&theme=tokyonight" />
   <br />
