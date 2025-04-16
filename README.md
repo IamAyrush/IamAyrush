@@ -48,12 +48,15 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=IamAyrush&bg_color=1f1f1f&color=00ffe4&line=00ffe4&point=ffffff&area=true&hide_border=true" alt="Ayrush's GitHub Activity Graph" />
 </p>
+<!-- 🔥 Streak - Full Width -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IamAyrush&theme=tokyonight&hide_border=true" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=IamAyrush&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamAyrush&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IamAyrush&theme=tokyonight&hide_border=true" width="100%" />
+</p>
+
+<!-- 📊 Stats & 🧠 Top Languages - Side by Side -->
+<p align="center">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=IamAyrush&show_icons=true&theme=tokyonight" width="49%"/>
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamAyrush&layout=compact&theme=tokyonight" width="49%"/>
 </p>
 
 ---
