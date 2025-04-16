@@ -67,11 +67,12 @@
 
 ---
 
-### 📅 My GitHub Activity
+### 📈 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-contribution-graph.ez4o.com/?username=IamAyrush&theme=tokyonight" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=IamAyrush&bg_color=2e2e2e&color=5c6bc0&line=5c6bc0&point=ffffff&area=true&hide_border=true" alt="Ayrush's GitHub Activity Graph" />
 </p>
+
 
 ---
 
