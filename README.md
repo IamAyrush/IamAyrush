@@ -52,9 +52,12 @@
   
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=IamAyrush&show_icons=true&theme=tokyonight&hide_border=true" height="200"/>
+</p>
 
-  <!-- LeetCode Stats -->
-  <img src="https://leetcard.jacoblin.cool/iamayrush?ext=contest&theme=dark&border=0" height="300" width="340"/>
+<!-- LeetCode Achievements (Streak Badges) -->
+<p align="center">
+  <img src="https://leetcode.com/static/images/achievement/50_days.png" alt="50 Days Streak" width="100"/>
+  <img src="https://leetcode.com/static/images/achievement/100_days.png" alt="100 Days Streak" width="100"/>
 </p>
 
 <!-- Profile Views Badge -->
