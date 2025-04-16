@@ -54,7 +54,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=IamAyrush&show_icons=true&theme=tokyonight&hide_border=true" height="200"/>
 
   <!-- LeetCode Stats -->
-  <img src="https://leetcard.jacoblin.cool/iamayrush?ext=contest&theme=solarized_dark&border=true" height="200"/>
+  <img src="https://leetcard.jacoblin.cool/iamayrush?ext=contest&theme=tokyonight&hide_border=true" height="200"/>
 </p>
 
 <!-- Profile Views Badge -->
