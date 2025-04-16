@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Ayush</h1>
+<h1 align="center">Hey!, I'm Ayush</h1>
 <h3 align="center">aka Ayrush | 3rd Year Techie @ ITE | Full Stack Dev | Building Dreams with Code ☁️</h3>
 
 <p align="center">
@@ -54,7 +54,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=IamAyrush&show_icons=true&theme=tokyonight&hide_border=true" height="200"/>
 
   <!-- LeetCode Stats -->
-  <img src="https://leetcard.jacoblin.cool/iamayrush?ext=contest&theme=tokyonight&hide_border=true" height="200"/>
+  <img src="https://leetcard.jacoblin.cool/iamayrush?ext=contest&theme=dark&border=0" height="200" width="340"/>
 </p>
 
 <!-- Profile Views Badge -->
