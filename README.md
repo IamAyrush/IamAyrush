@@ -81,19 +81,19 @@
   <a href="https://github.com/IamAyrush" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-IamAyrush-black?style=for-the-badge&logo=github"/>
   </a>
-  <a href="www.linkedin.com/in/ayrush" target="_blank">
+  <a href="https://www.linkedin.com/in/ayrush/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-IamAyrush-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://www.instagram.com/ayrush.v/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%40IamAyrush-purple?style=for-the-badge&logo=instagram"/>
   </a>
-  <a href="mailto:ayrush01email.com">
+  <a href="mailto:ayrush01@gmail.com">
     <img src="https://img.shields.io/badge/Email-Let's+Talk-red?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://portfolio-swe-indol.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-IamAyrush-ff69b4?style=for-the-badge&logo=web&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/u/iamayrush/" target="_blank">
+  <a href="https://leetcode.com/u/IamAyrush/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-IamAyrush-orange?style=for-the-badge&logo=leetcode"/>
   </a>
 </p>
