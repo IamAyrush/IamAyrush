@@ -91,10 +91,10 @@
     <img src="https://img.shields.io/badge/Email-Let's+Talk-red?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://portfolio-swe-indol.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-IamAyrush%20Now-ff69b4?style=for-the-badge&logo=web&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Portfolio-IamAyrush-ff69b4?style=for-the-badge&logo=web&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/iamayrush/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-IamAyrush+with+Me-orange?style=for-the-badge&logo=leetcode"/>
+    <img src="https://img.shields.io/badge/LeetCode-IamAyrush-orange?style=for-the-badge&logo=leetcode"/>
   </a>
 </p>
 
