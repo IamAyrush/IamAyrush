@@ -105,4 +105,6 @@
 > “First, solve the problem. Then, write the code.” – John Johnson
 
 ---
+Google me: just search "iamayrush" 😉
+---
 
