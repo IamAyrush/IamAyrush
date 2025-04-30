@@ -90,7 +90,7 @@
   <a href="mailto:ayrush01@gmail.com">
     <img src="https://img.shields.io/badge/Email-Let's+Talk-red?style=for-the-badge&logo=gmail"/>
   </a>
-  <a href="https://portfolio-swe-indol.vercel.app" target="_blank">
+  <a href="https://iamayrush-portfolio.vercel.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-IamAyrush-ff69b4?style=for-the-badge&logo=web&logoColor=white"/>
   </a>
   <a href="https://leetcode.com/u/IamAyrush/" target="_blank">
