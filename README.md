@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm in my 4rd year of ITE and currently prepping for placements (send coffee ☕)
+- 🎓 I'm Graduated student in Information Technology(yah, am so called Adult now) and currently prepping for placements (send coffee ☕)
 - 💡 I’m passionate about creating smooth user experiences & powerful backend and Frontend logic
 - 🔧 I love working with JavaScript, Java, and modern web tools
 - 💭 My goal? Build tools that solve real-life problems with good design and clean code
