@@ -35,14 +35,6 @@
 
 ---
 
-### 🔥 Currently Building
-
-- 🍽️ **Bingo** — A pager menu to digital menu converter for restaurants & cafes  
-- 🧭 **Wandurlust App** — A travel exploration app for wanderers with style  
-- 📚 Grinding DSA + System Design + Backend for placement prep!
-
----
-
 ### 🧠 My Coding Journey So Far
 
 <p align="center">
